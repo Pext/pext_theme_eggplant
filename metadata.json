@@ -1,11 +1,11 @@
 {
-  "name": "eggplant",
+  "id": "pext.theme.eggplant",
+  "name": "Eggplant",
   "developer": "Emily Lau & Sylvia van Os",
   "description": "A pastel purple theme for Pext.",
   "homepage": "https://pext.hackerchick.me/",
   "license": "CC-BY-3.0",
   "git_urls": [
-    "https://github.com/Pext/pext_theme_eggplant",
-    "https://notabug.org/Pext/pext_theme_eggplant"
+    "https://github.com/Pext/pext_theme_eggplant"
   ]
 }
